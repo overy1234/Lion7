@@ -1,0 +1,8 @@
+C:\lion7\형식이 같은 변수 여러개\형식이 같은 변수 여러개\bin\Debug\형식이 같은 변수 여러개.exe.config
+C:\lion7\형식이 같은 변수 여러개\형식이 같은 변수 여러개\bin\Debug\형식이 같은 변수 여러개.exe
+C:\lion7\형식이 같은 변수 여러개\형식이 같은 변수 여러개\bin\Debug\형식이 같은 변수 여러개.pdb
+C:\lion7\형식이 같은 변수 여러개\형식이 같은 변수 여러개\obj\Debug\형식이 같은 변수 여러개.csproj.AssemblyReference.cache
+C:\lion7\형식이 같은 변수 여러개\형식이 같은 변수 여러개\obj\Debug\형식이 같은 변수 여러개.csproj.CoreCompileInputs.cache
+C:\lion7\형식이 같은 변수 여러개\형식이 같은 변수 여러개\obj\Debug\형식이 같은 변수 여러개.exe
+C:\lion7\형식이 같은 변수 여러개\형식이 같은 변수 여러개\obj\Debug\형식이 같은 변수 여러개.pdb
+C:\lion7\형식이 같은 변수 여러개\형식이 같은 변수 여러개\obj\Debug\형식이 같은 변수 여러개.exe.config

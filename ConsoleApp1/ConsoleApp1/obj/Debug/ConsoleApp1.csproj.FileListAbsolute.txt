@@ -1,0 +1,8 @@
+C:\lion7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\lion7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\lion7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\lion7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\lion7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\lion7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\lion7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\lion7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
