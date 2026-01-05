@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lion7project\\Lion7\\ConsoleApp9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A571F9-7E63-48C9-87DE-CB8E1BC650ED}|ConsoleApp9\\ConsoleApp9.csproj|c:\\lion7project\\lion7\\consoleapp9\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A571F9-7E63-48C9-87DE-CB8E1BC650ED}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lion7project\\Lion7\\ConsoleApp9\\ConsoleApp9\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Program.cs",
+              "ToolTip": "C:\\lion7project\\Lion7\\ConsoleApp9\\ConsoleApp9\\Program.cs",
+              "RelativeToolTip": "ConsoleApp9\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:07:47.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
