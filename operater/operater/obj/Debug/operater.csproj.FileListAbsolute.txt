@@ -1,0 +1,8 @@
+C:\lion7project\Lion7\operater\operater\bin\Debug\operater.exe.config
+C:\lion7project\Lion7\operater\operater\bin\Debug\operater.exe
+C:\lion7project\Lion7\operater\operater\bin\Debug\operater.pdb
+C:\lion7project\Lion7\operater\operater\obj\Debug\operater.csproj.AssemblyReference.cache
+C:\lion7project\Lion7\operater\operater\obj\Debug\operater.csproj.CoreCompileInputs.cache
+C:\lion7project\Lion7\operater\operater\obj\Debug\operater.exe
+C:\lion7project\Lion7\operater\operater\obj\Debug\operater.pdb
+C:\lion7project\Lion7\operater\operater\obj\Debug\operater.exe.config
