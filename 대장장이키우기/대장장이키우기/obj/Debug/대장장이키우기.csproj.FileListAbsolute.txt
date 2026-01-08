@@ -1,0 +1,8 @@
+C:\lion7project\Lion7\대장장이키우기\대장장이키우기\bin\Debug\대장장이키우기.exe.config
+C:\lion7project\Lion7\대장장이키우기\대장장이키우기\bin\Debug\대장장이키우기.exe
+C:\lion7project\Lion7\대장장이키우기\대장장이키우기\bin\Debug\대장장이키우기.pdb
+C:\lion7project\Lion7\대장장이키우기\대장장이키우기\obj\Debug\대장장이키우기.csproj.AssemblyReference.cache
+C:\lion7project\Lion7\대장장이키우기\대장장이키우기\obj\Debug\대장장이키우기.csproj.CoreCompileInputs.cache
+C:\lion7project\Lion7\대장장이키우기\대장장이키우기\obj\Debug\대장장이키우기.exe
+C:\lion7project\Lion7\대장장이키우기\대장장이키우기\obj\Debug\대장장이키우기.pdb
+C:\lion7project\Lion7\대장장이키우기\대장장이키우기\obj\Debug\대장장이키우기.exe.config
