@@ -1,0 +1,8 @@
+C:\lion7project\Lion7\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+C:\lion7project\Lion7\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+C:\lion7project\Lion7\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+C:\lion7project\Lion7\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.AssemblyReference.cache
+C:\lion7project\Lion7\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\lion7project\Lion7\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+C:\lion7project\Lion7\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
+C:\lion7project\Lion7\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe.config

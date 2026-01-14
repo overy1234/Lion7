@@ -1,0 +1,7 @@
+C:\lion7project\Lion7\ConsoleApp40\ConsoleApp40\bin\Debug\ConsoleApp40.exe.config
+C:\lion7project\Lion7\ConsoleApp40\ConsoleApp40\bin\Debug\ConsoleApp40.exe
+C:\lion7project\Lion7\ConsoleApp40\ConsoleApp40\bin\Debug\ConsoleApp40.pdb
+C:\lion7project\Lion7\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleApp40.csproj.AssemblyReference.cache
+C:\lion7project\Lion7\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleApp40.csproj.CoreCompileInputs.cache
+C:\lion7project\Lion7\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleApp40.exe
+C:\lion7project\Lion7\ConsoleApp40\ConsoleApp40\obj\Debug\ConsoleApp40.pdb

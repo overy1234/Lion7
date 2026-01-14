@@ -1,0 +1,8 @@
+C:\lion7project\Lion7\슈팅게임만들기\슈팅게임만들기\bin\Debug\슈팅게임만들기.exe.config
+C:\lion7project\Lion7\슈팅게임만들기\슈팅게임만들기\bin\Debug\슈팅게임만들기.exe
+C:\lion7project\Lion7\슈팅게임만들기\슈팅게임만들기\bin\Debug\슈팅게임만들기.pdb
+C:\lion7project\Lion7\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.csproj.AssemblyReference.cache
+C:\lion7project\Lion7\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.csproj.CoreCompileInputs.cache
+C:\lion7project\Lion7\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.exe
+C:\lion7project\Lion7\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.pdb
+C:\lion7project\Lion7\슈팅게임만들기\슈팅게임만들기\obj\Debug\슈팅게임만들기.exe.config
